@@ -12,7 +12,7 @@ public class Main {
   PlayerStats stats = new PlayerStats{7, 185, 1);
 
   double fantasyPoints =
-            FantasyScoring.calculatePPRPoints(stats);
+            score.calculatePPRPoints(stats);
   
         System.out.println("Player: " + player.getName());
         System.out.println("Position: " + player.getPosition());
