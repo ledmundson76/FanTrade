@@ -11,6 +11,14 @@ FanTrade will be developed from the ground up, using no existing code from open-
 # Proof of Concept 
 https://github.com/ledmundson76/FanTrade
 
+# Weekly TODO List:
+Week 1:
+Week 2:
+Week 3:
+Week 4:
+Week 5:
+Week 6:
+
 # Required Resources
 There should be no extra resources needed. My plan is to have this be able to run on your laptop hosted on GitHub and can be created and run on VS Code. I will most likely be using Java and will need a database to hold the NFL players’ statistics. 
 
